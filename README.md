@@ -1,7 +1,7 @@
 # Ciphersafe
 
 
-![logo](https://github.com/user-attachments/assets/1613b3eb-af25-41e9-a4c9-aab7d6e67d85)
+<img src="https://github.com/user-attachments/assets/1613b3eb-af25-41e9-a4c9-aab7d6e67d85" alt="Ciphersafe Logo" width="800"/>
 
 ## Overview
 
