@@ -6,7 +6,7 @@ import { ToastContainer, toast } from 'react-toastify';
 import 'react-toastify/dist/ReactToastify.css'; // Import Toastify CSS
 import "./App.css";
 import Navbar from "./components/Navbar";
-import Tables from "./pass/tables";
+import Tables from "./pass/Tables";
 
 function App() {
   const [showPassword, setShowPassword] = useState(false);
